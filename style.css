@@ -1,15 +1,16 @@
-.container{
+.container {
     width: 100%;
     text-align: center;
     margin-top: 30px;
 }
+
 .box {
     display: inline-block;
     width: 300px;
     height: 300px;
     padding-top: 20px;
     margin: 2px;
-    
+
 }
 
 
@@ -19,23 +20,28 @@
 
 }
 */
-#caja1{
+#caja1 {
     border: 2px solid blue;
 }
-#caja2{
+
+#caja2 {
     border: 2px solid green;
 }
-#caja3{
+
+#caja3 {
     border: 2px solid yellow;
 }
-.descuento{
-   font-size: 22px;
+
+.descuento {
+    font-size: 22px;
 }
-.docu{
+
+.docu {
     color: gray;
     font-size: 18px;
 }
-.totalAPagar{
+
+.totalAPagar {
     width: 70%;
     background-color: rgb(7, 231, 231);
     display: block;
@@ -45,11 +51,13 @@
     padding-left: 30px;
     border-radius: 5px;
 }
-.btn-success{
-   background-color: rgb(85, 248, 44)  ;
-border-color:  rgb(85, 248, 44) ;
+
+.btn-success {
+    background-color: rgb(85, 248, 44);
+    border-color: rgb(85, 248, 44);
 }
-.container2{
+
+.container2 {
     width: 70%;
     text-align: center;
     margin: auto;
